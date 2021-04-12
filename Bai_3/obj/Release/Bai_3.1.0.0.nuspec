@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Bai_3</id>
+    <version>1.0.0</version>
+    <authors>Bai_3</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="System.Configuration.ConfigurationManager" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Bai_3\Bai_3\bin\Release\netcoreapp3.1\Bai_3.runtimeconfig.json" target="lib\netcoreapp3.1\Bai_3.runtimeconfig.json" />
+    <file src="F:\Bai_3\Bai_3\bin\Release\netcoreapp3.1\Bai_3.dll" target="lib\netcoreapp3.1\Bai_3.dll" />
+  </files>
+</package>

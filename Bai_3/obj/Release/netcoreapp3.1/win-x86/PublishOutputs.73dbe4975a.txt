@@ -1,0 +1,2 @@
+F:\Bai_3\Bai_3\bin\Release\netcoreapp3.1\publish\Bai_3.pdb
+F:\Bai_3\Bai_3\bin\Release\netcoreapp3.1\publish\Bai_3.exe
